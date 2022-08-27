@@ -1,0 +1,47 @@
+/* Navbar */
+
+
+/* intro */
+/* read more button start */
+.redbtn{
+    position: relative;
+    right: 0;
+    transition: right 0.5s;
+}
+
+.rmdbut:hover .redbtn{
+    right: -8px;
+}
+/* read more button end */
+
+
+/* our value card start*/
+.valuecard{
+    transition: transform .4s;
+}
+
+.valuecard:hover{
+    transform: scale(1.03);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+}
+/* our value card end*/
+
+
+
+
+/* aboutus css start */
+
+/* justify */
+.aboutjust {
+    text-justify: inter-word;
+  }
+
+/* about us end */
+
+
+/* login page start*/
+
+/* box shadow */
+.bxshdow{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
